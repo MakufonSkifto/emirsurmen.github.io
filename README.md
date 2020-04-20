@@ -6,4 +6,4 @@ Go To My Projects' Site
 
 [>> Review.io >>](http://emirsurmen.github.io/review.io)
 
-[>> My GitHub Profile >>](http://emirsurmen.github.io/review.io)
+[>> My GitHub Profile >>](https://github.com/emirsurmen)
