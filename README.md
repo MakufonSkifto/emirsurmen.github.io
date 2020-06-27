@@ -8,7 +8,7 @@ Go To My Projects' Site
 
 [>> My Discord.py Bot >>](https://github.com/emirsurmen/MASTERBOT) (Private)
 
-[>> Discord Bot's Website >>](https://emirsurmen.github.io/meon/index.html)
+[>> Discord Bot's Website >>](https://iamthe2ndhuman.github.io/meon/index.html)
 
 [>> Add My Discord Bot >>](https://bit.ly/30mLJUW) 
 
